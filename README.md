@@ -1,1 +1,1 @@
-thr to commit and push to git hub
+practise to commit and push to git hub
